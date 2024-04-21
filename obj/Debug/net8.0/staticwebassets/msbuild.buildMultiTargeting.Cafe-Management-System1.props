@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cafe-Management-System1.props" />
+</Project>
